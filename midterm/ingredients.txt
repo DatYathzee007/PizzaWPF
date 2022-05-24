@@ -1,0 +1,10 @@
+1,Salami,2,meat
+2,Gouda,5,cheese
+3,Tomato,2,vegetable,
+4,Parmesan,4,cheese,
+5,Tuna,6,fish
+6,Paprika,4,vegetable
+7,Onion,3,vegetable
+8,Pineapple,6,fruit
+9,Ham,10,meat
+10,Chili,7,vegetable
